@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bảo Anh Nhắc Bạn</string>
+    <string name="channel_reminder_name">Lời Nhắc Báo Động</string>
+    <string name="channel_reminder_desc">Kênh thông báo nhắc nhở liên tục đến khi hoàn thành</string>
+</resources>

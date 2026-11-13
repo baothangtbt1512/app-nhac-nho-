@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+Thumbs.db
+**/build/
+/build/
+captures/
+.navigation/
+output.json
+*.hprof
+.kotlin/
+.cxx/
